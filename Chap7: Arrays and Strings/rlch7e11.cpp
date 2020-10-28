@@ -36,7 +36,7 @@ int main(void)
 		cout<<"Enter money(in long double): ";
 		cin>>ld;
 		
-		if(ld>9999999999999999.000)
+		if(ld>9999999999999990.000)
 			cout<<"Sorry!! currently not handling value bigger than "
 			"9,999,999,999,999,990,00.\n";
 		else
