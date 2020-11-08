@@ -1,5 +1,5 @@
 /*
---PROGRAM NAME: rlch8e5.cpp
+--PROGRAM NAME: rlch8e6.cpp
 --PROGRAM STATEMENT: Add to the time class of Exercise 5 the ability to subtract 
 two time values using the overloaded (-) operator, and to multiply a time value 
 by a number, of type float, using the overloaded (*) operator.
