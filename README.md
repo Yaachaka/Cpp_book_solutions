@@ -1,6 +1,14 @@
 # Cpp_book_solutions
 OOP in C++, 4th edition by Robert Lafore exercise programs solutions.
 
+Source code file names: 
+Ex: rlch3e6.cpp
+r- robert
+l- lafore
+ch3- chapter 3
+e6- exercise problem 6
+.cpp- source file extension
+
 ### Introduction
 Pages: 27(1) to 33(7)
 
