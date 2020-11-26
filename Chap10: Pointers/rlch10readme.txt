@@ -39,14 +39,14 @@ notation throughout; the only place you need brackets is in defining the arrays.
 
 --Exercise 6(rlch10e6.cpp): Make your own version of the library function 
 strcmp(s1,s2), which compares two strings and returns –1 if s1 comes first 
-alphabetically, 0 if s1ands2 are the same, and 1ifs2 comes first alphabetically. 
+alphabetically, 0 if s1 and s2 are the same, and 1 if s2 comes first alphabetically. 
 Call your function compstr(). It should take two char* strings as arguments, 
 compare them character by character, and return an int. Write a main() program to 
 test the function with different combinations of strings. Use pointer notation 
 throughout.
 
 --Exercise 7(rlch10e7.cpp): Modify the person class in the PERSORT program in this 
-chapter so that it includes not only a name, but also a salaryitem of type float 
+chapter so that it includes not only a name, but also a salary item of type float 
 representing the person’s salary.You’ll need to change the setName() and 
 printName() member functions to setData() and printData(), and include in them the 
 ability to set and display the salary as well as the name. You’ll also need a 
