@@ -39,3 +39,5 @@ Pages: 345(319) to 396(370)
 ### Chapter 9: Inheritance
 Pages: 397(371) to 453(427)
 
+### Chapter 10: Pointers
+Pages: 455(429) to 527(501)
