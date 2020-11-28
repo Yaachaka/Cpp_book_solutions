@@ -110,9 +110,9 @@ functions).
 --Exercise 12(rlch10e12.cpp): Pointers are complicated, so let’s see whether we 
 can make their operation more understandable (or possibly more impenetrable) by 
 simulating their operation with a class. 
-To clarify the operation of our homemade pointers, we’ll model the computer’s memory using arrays. This way, since array 
-access is well understood, you can see what’s really going on when we access 
-memory with pointers. 
+To clarify the operation of our homemade pointers, we’ll model the computer’s 
+memory using arrays. This way, since array access is well understood, you can 
+see what’s really going on when we access memory with pointers. 
 We’d like to use a single array of type char to store all types of variables. 
 This is what a computer memory really is: an array of bytes (which are the same 
 size as type char), each of which has an address (or, in array-talk, an index). 
